@@ -1,6 +1,6 @@
 # learningcompanionroles
 
-In Botpress gestaltete konzeptionelle Prototypen als Ergebnis einer Masterthesis zum Rollendesign von gamifizierten LCs.
+In Botpress gestaltete konzeptionelle Prototypen als Ergebnis einer Masterarbeit zum Rollendesign von gamifizierten LCs.
 
 Diese Arbeit zielt darauf ab, Gestaltungswissen über den Rollenwechsel von einer expertenähnlichen zu einer gleichgestellten Rolle zu erweitern. 
 Eine quantitative Studie (n = 132) untersuchte die Effekte des Rollenwechsels in einem Online-Experiment. Dafür wurden vier verschiedene Varianten 
